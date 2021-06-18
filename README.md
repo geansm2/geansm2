@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gean
-- 👀 I’m interested in Data Science and AI student
+- 🤔 I’m interested in Data Science and Programming/Statistics language
+- 🎓 Studying Data Science and IA at UniDomBosco
 - 🌱 I’m currently learning everything. Now focused in Java, Python and R and Marchine Learning
 - 📫 You can find me on [twitter](https://twitter.com/decouvretoi) | [mail](mailto:geansm2@gmail.com)
 
