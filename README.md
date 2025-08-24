@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Gean
-- 🤔 I’m interested in Data Science and Programming/Statistics language
-- 🎓 Studying Data Science and IA at UniDomBosco
-- 🎓 Studying Statistic at UFPR
-- 🌱 I’m currently learning everything. Now focused in Python, R and Marchine Learning
-- 📫 You can find me on [mail](mailto:geansm2@gmail.com)
+# 👋 Hello! I'm Gean Machado  
 
-#Experiences:
-* Collaborator in the development of educational games. Using #JAVA [NTISpace in Google Play](https://play.google.com/store/apps/details?id=novoprojeto.ntispaceandroid&hl=en_US&gl=US)
+💡 Passionate about **Data Science**, **Machine Learning**, and **Quantitative Finance**.  
+🎓 Graduated in **Data Science & AI** at UniDomBosco.  
+📊 Interested in applying **Python, R, and LLMs** to real-world problems, especially in **trading and quantitative analysis**.  
+🌱 Always learning.  
+📫 Reach me at: [geansm2@gmail.com](mailto:geansm2@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gean-machado/)
