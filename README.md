@@ -1,55 +1,80 @@
-#  Olá! Eu sou o Gean Machado | Hello! I'm Gean Machado
+# Gean Machado
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Specialist-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-Explorer-gold?style=for-the-badge&logo=data-canals&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Crafting%20Solutions-red?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantitative%20Finance-gold?style=for-the-badge&logo=data-canals&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-red?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-###  Sobre Mim (Português)
-Sou um profissional de **Ciência de Dados** focado em extrair valor de grandes volumes de informação e apaixonado por automação inteligente. Busco constantemente unir lógica quantitativa com criatividade tecnológica.
+## Sobre
 
--  Graduado em **Ciência de Dados e IA**.
--  Especialista em **Data Analytics**, com foco em transformar dados brutos em ferramentas de decisão.
--  Estudioso de **Finanças Quantitativas**, explorando algoritmos de mercado e análise técnica via código.
--  Entusiasta de **IA & LLMs**, construindo soluções personalizadas para automatizar processos e potencializar a produção de conteúdo.
--  Idealizador do ecossistema *Em Segundo Plano*.
+Atuo na interseção entre **análise de dados**, **finanças quantitativas** e **automação analítica**.  
+Meu foco está menos em ferramentas isoladas e mais em **transformar dados em decisões**, considerando contexto, restrições e impacto real de negócio.
 
----
+Tenho formação em **Ciência de Dados e Inteligência Artificial** e desenvolvo projetos que simulam cenários próximos ao ambiente corporativo, com ênfase em clareza analítica, rigor técnico e comunicação adequada a diferentes audiências.
 
-###  About Me (English)
-I'm a **Data Scientist** passionate about turning complex data into strategic decisions. My primary focus is at the intersection of cutting-edge technology and financial markets.
-
--  Graduated in **Data Science & AI**.
--  Experienced in **Data Analytics**, building robust ETL solutions and data visualizations.
--  Special interest in **Quantitative Finance**, developing market analysis tools and trading automation.
--  Developer of custom tools integrating **LLMs (Generative AI)** for workflow automation and content creation.
--  Currently focused on expanding my production ecosystem (Project *Em Segundo Plano*).
+Grande parte do meu trabalho envolve:
+- Análises orientadas a problemas de negócio  
+- SQL e modelagem relacional  
+- Limpeza e preparação de dados em cenários imperfeitos  
+- Storytelling analítico para públicos técnicos e executivos  
 
 ---
 
-###  Tecnologias & Ferramentas | Tech Stack
-- **Languages:** Python (Pandas, Numpy, Pillow, Scikit-learn), R, MQL5 (Trading).
-- **Data Engineering:** SQL, BigQuery, Web Scraping, ETL Pipelines.
-- **Visualization:** Matplotlib, Seaborn, Power BI, Plotly.
-- **Development:** Git, Docker, AI Agents, Prompt Engineering.
+## About
+
+I work at the intersection of **data analytics**, **quantitative finance**, and **analytical automation**.  
+My focus is not on isolated tools, but on **turning data into decisions**, accounting for context, constraints, and real business impact.
+
+I hold a degree in **Data Science and Artificial Intelligence** and develop projects that simulate real-world corporate scenarios, emphasizing analytical clarity, technical rigor, and communication tailored to different audiences.
+
+My work commonly involves:
+- Business-driven data analysis  
+- SQL and relational data modeling  
+- Data cleaning in messy, real-world conditions  
+- Analytical storytelling for technical and executive stakeholders  
 
 ---
 
-###  Projetos em Destaque | Featured Projects
-- [**Data_Analytics**](https://github.com/geansm2/Data_Analytics): Portfólio de desafios técnicos com foco em análise de mercado e modelagem de dados.
-- [**Em Segundo Plano**](https://github.com/geansm2/em-segundo-plano): Ecossistema de ferramentas em Python para automação de podcasts, carrosséis editoriais e gestão de conteúdo.
+## Featured Projects
+
+- **inventory-optimization-analysis**  
+  End-to-end business analysis focused on inventory optimization and profitability, identifying underperforming SKUs to support strategic product decisions.
+
+- **sql-business-analysis**  
+  SQL-centered analytics project using a relational e-commerce dataset, with complex joins, CTEs, and window functions to answer business questions at the data source.
+
+- **data-cleaning-challenge**  
+  Real-world data cleaning challenge addressing inconsistent, unreliable datasets and explicit trade-off decisions common in production environments.
+
+- **data-storytelling-multi-audience**  
+  Demonstrates how the same analysis is communicated differently to executive, operational, and technical audiences.
+
+- **dashboard_r_shiny**  
+  Interactive R Shiny dashboard integrating operational and financial indicators for decision support in an e-commerce context.
 
 ---
 
-###  Conecte-se comigo | Connect with me
--  [LinkedIn](https://www.linkedin.com/in/gean-machado/)
--  [geansm2@gmail.com](mailto:geansm2@gmail.com)
--  [@geansm2](https://github.com/geansm2)
+## Technical Stack
+
+- **Languages:** Python, R, SQL  
+- **Data Analysis:** Pandas, NumPy, EDA, Statistical Analysis  
+- **Data Engineering:** ETL, Web Scraping, Relational Modeling  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Shiny  
+- **Finance:** Risk Metrics, Portfolio Analysis, Quantitative Models  
+- **Tools:** Git, Jupyter, SQLite, Docker (basic)
 
 ---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gean-machado/)
+- Email: geansm2@gmail.com
+
+---
+
 <p align="center">
-  <i>"Transformando dados em insights, e insights em realidade."</i>
+  <i>Clarity over complexity. Evidence over assertion.</i>
 </p>
