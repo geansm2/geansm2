@@ -1,21 +1,21 @@
 # 👋 Olá! Eu sou o Gean Machado | Hello! I'm Gean Machado
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-Analyst-gold?style=for-the-badge&logo=data-canals&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Developer-red?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-Specialist-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantitative%20Finance-Explorer-gold?style=for-the-badge&logo=data-canals&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Crafting%20Solutions-red?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 🇧🇷 Sobre Mim (Português)
-Sou um **Cientista de Dados** apaixonado por transformar dados complexos em decisões estratégicas. Meu foco principal é a interseção entre tecnologia de ponta e o mercado financeiro.
+Sou um profissional de **Ciência de Dados** focado em extrair valor de grandes volumes de informação e apaixonado por automação inteligente. Busco constantemente unir lógica quantitativa com criatividade tecnológica.
 
 - 🎓 Graduado em **Ciência de Dados e IA**.
-- 📊 Experiência em **Data Analytics**, construindo soluções robustas de ETL e visualização de dados.
-- 💹 Especial interesse em **Finanças Quantitativas**, desenvolvendo ferramentas de análise de mercado e automação de trading.
-- 🤖 Desenvolvedor de ferramentas personalizadas integrando **LLMs (IA Generativa)** para automação de fluxos de trabalho e criação de conteúdo.
-- 🛠️ Atualmente focado em aprimorar meu ecossistema de produção (Projeto *Em Segundo Plano*).
+- 📊 Especialista em **Data Analytics**, com foco em transformar dados brutos em ferramentas de decisão.
+- 💹 Estudioso de **Finanças Quantitativas**, explorando algoritmos de mercado e análise técnica via código.
+- 🤖 Entusiasta de **IA & LLMs**, construindo soluções personalizadas para automatizar processos e potencializar a produção de conteúdo.
+- 🛠️ Idealizador do ecossistema *Em Segundo Plano*.
 
 ---
 
